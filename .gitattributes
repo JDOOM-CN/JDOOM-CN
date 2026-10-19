@@ -1,0 +1,4 @@
+# 把所有html文档标记为生成文件，Linguist不再统计它们
+*.html linguist-generated=true
+# 强制将.c文件识别为C语言
+*.c linguist-language=C
