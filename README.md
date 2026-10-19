@@ -40,3 +40,4 @@ Official website: https://jiwo.net/jdoom/en/
 Official website: https://jiwo.net/jdoom/
 
 ## License
+jiwo.org
