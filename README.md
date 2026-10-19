@@ -5,6 +5,13 @@ Unlock ports. Let the browser speak non-Web protocols.
 If it's a web page, render it. If it's a service, identify it.
 Replace a dozen protocol clients and dark terminals — one browser handles every port.
 
+## Screenshots
+Examples of connecting to different network services directly in browser:
+
+![SSH Demo](ssh.png) ![Telnet Demo](telnet.png)
+
+![3389 Demo](3389.png) ![Web Demo](web.png)
+
 ## Overview
 JDOOM is a browser-native networking tool built to access, inspect and interact with non-web network services directly inside your browser.
 
@@ -22,13 +29,14 @@ JDOOM leverages browser networking capabilities to talk directly to TCP services
 It sends raw data and displays responses, making it easy to test, diagnose and explore network ports without external tools.
 
 ## Repository & Downloads
-> Source code and release packages are hosted in our main repository:
-👉 https://github.com/JDOOM-CN/jdoom
+> Source code and release packages are hosted in this repository:
+👉 https://github.com/JDOOM-CN/JDOOM-CN
 
 📦 Get latest builds:
-https://github.com/JDOOM-CN/jdoom/releases
+https://github.com/JDOOM-CN/JDOOM-CN/releases
 
 ## Documentation
 Official website: https://jiwo.net/jdoom/en/
+Official website: https://jiwo.net/jdoom/
 
 ## License
