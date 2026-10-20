@@ -28,7 +28,7 @@ int main( int argc, char *argv[] )
 
 	bzero( (void *)&sin, sizeof(struct sockaddr_in) );
 	sin.sin_family = AF_INET;
-	sin.sin_addr.s_addr = inet_addr("202.99.27.222");
+	sin.sin_addr.s_addr = inet_addr("192.168.0.1");
 
 	int i=0;
 
